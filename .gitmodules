@@ -1,0 +1,3 @@
+[submodule "test-module-3"]
+	path = test-module-3
+	url = git@github.com:Geilokowski/geilorepo-test-module-3.git
