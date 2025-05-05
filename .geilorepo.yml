@@ -1,0 +1,4 @@
+module_config:
+  - path: test-module-3
+    tags:
+      - 'deeply-nested'
