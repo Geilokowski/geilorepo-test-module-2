@@ -1,4 +1,5 @@
 module_config:
   - path: test-module-3
     tags:
+      - 'pom'
       - 'deeply-nested'
